@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(253, 253, 253);
+}
+main{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    
+}
+button{
+    background-color: rgb(197, 197, 197);
+    margin: 50px;
+    border-radius: 50px;
+    border: 0px;
+    padding: 15px 20px;
+    font-size: medium;
+}
+
+footer{
+    font-size: smaller;
+    margin: auto;
+    padding: 10%;
+    color: rgb(197, 197, 197);
+}
+
+.dark-mode{
+background-color: rgb(44, 44, 44);
+}
+.dark-mode h1{
+    color: antiquewhite;
+}
+.dark-mode button{
+    background-color: antiquewhite;
+
+}
+.dark-mode footer{
+    color: aliceblue;
+}
