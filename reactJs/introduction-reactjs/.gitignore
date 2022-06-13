@@ -1,0 +1,12 @@
+node_modules
+build
+dist
+
+*lesson-01
+*lesson-02
+*lesson-03
+*my-app
+*lifecycle
+*jsx
+*renderization
+*naruto-quotes-client-main
