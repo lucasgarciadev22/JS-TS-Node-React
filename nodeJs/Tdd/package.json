@@ -1,5 +1,5 @@
 {
-  "name": "node-tdd",
+  "name": "mocha",
   "version": "1.0.0",
   "description": "Exemplo de desenvolvimento de API em Node.js usando TDD",
   "main": "index.js",
@@ -21,8 +21,15 @@
     "supertest": "^4.0.2"
   },
   "dependencies": {
+    "@hasezoey/typegoose": "^5.9.2",
+    "@types/mongoose": "^5.11.97",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "mongoose": "^5.6.5"
-  }
+    "mongoose": "^5.13.14"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "author": "",
+  "license": "ISC"
 }
