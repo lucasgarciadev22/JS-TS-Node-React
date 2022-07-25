@@ -1,3 +1,3 @@
-# digital-innovation-one-introduction-reactjs
-Introdução ao ReactJS
+# Introduction exercises in React...
 
+My first codes using this library. I'v leanr it during the DIO bootcamp
