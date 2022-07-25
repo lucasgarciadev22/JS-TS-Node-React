@@ -62,3 +62,6 @@ typings/
 
 # token file
 src/utils/token
+
+# other repos 
+CLI Clime-Tempo API
