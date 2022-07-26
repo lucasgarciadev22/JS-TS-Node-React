@@ -1,3 +1,3 @@
 # Introduction exercises in React...
 
-My first codes using this library. I'v leanr it during the DIO bootcamp
+My first codes using this library. I'v leanred it during the DIO bootcamp
