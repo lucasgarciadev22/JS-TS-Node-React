@@ -4,5 +4,5 @@
 ## - [Parking Simulator TypeScript](https://github.com/lucasgarciadev22/JS-Typescript-ReactJS-NodeJS/tree/master/estacionamentoTypescript/main)
 ## - [Github CLone ReactJS](https://github.com/lucasgarciadev22/JS-Typescript-ReactJS-NodeJS/tree/master/reactJs/desafio-projeto-dio/github-react)
 ## - [Chat Simulator NodeJs](https://github.com/lucasgarciadev22/JS-Typescript-ReactJS-NodeJS/tree/master/nodeJs/node-websockets-master)
-## Other [Javascript Repo](https://github.com/lucasgarciadev22/JavaScript-Projects)
+### - [Old Javascript Repo](https://github.com/lucasgarciadev22/JavaScript-Projects)
 
